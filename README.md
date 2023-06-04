@@ -22,4 +22,4 @@ I used 32 features, and the code for extracting values for each feature for ever
 I used several machine learning algorithms like the Random Forest classifier, decision tree, XGBoost, SVC, multilayer layer perceptron, and linear regression and trained both datasets and analyzed the results. The code for the same is given in the [file](https://github.com/Dew-Drops/Phishing-Detection-Project/blob/main/ModelTrainingPage.ipynb).
 
 ## Note 
-For a detailed understanding, please go through the [report](https://github.com/Dew-Drops/Phishing-Detection-Project/blob/main/PhishingDetectionReport17_05_2023_final.pdf).
+For a detailed understanding, please go through the [report](https://github.com/Dew-Drops/Phishing-Detection-Project/blob/main/PhishingDetectionReport.pdf).
