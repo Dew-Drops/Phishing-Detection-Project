@@ -5,7 +5,7 @@
 
 
 ## Installation
-All the required modules are written in google collab cell. We just need to execute the cell in order to install it. Examples, to install requests module just execute below command.
+All the required modules are written in google collab cell. You just need to execute the cell in order to install it. Examples, to install requests module just execute below command.
 
 ```bash
   !pip install requests
